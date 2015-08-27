@@ -1,0 +1,11 @@
+<resources>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="primary">#F50057</color>
+    <color name="primary_dark">#C51162</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="button_primary">#FFFFFF</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="accent">#FF80AB</color>
+</resources>
